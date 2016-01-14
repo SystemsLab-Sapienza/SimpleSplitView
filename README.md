@@ -5,6 +5,6 @@ Unlike other split view implementations for jQuery Mobile, SimpleSplitView does 
 
 This repo use the same <a href='http://simplesplitview.sourceforge.net'>library</a> developed by <a href='http://yared.com'>Peter Yared</a> and 
 							<a href='http://ironetics.com'>Marc Raiser</a>, and is currently maintained by 
-							<a href='http://newbound.com'>Newbound, Inc.</a>, but extends documentation about use the library with jquery 1.7+.
+							<a href='http://newbound.com'>Newbound, Inc.</a>, but extends documentation about the library use with jquery 1.7+.
 
 You can check documentation and a live demo of the library <a href='http://rfidlabsapienza.github.io/SimpleSplitView/'>here</a> 
